@@ -4,92 +4,78 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(1).pdf" style="text-decoration:none;">Reasoning about Consensus when Opinions Diffuse through Majority Dynamics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(2).pdf" style="text-decoration:none;">Bayesian Optimization in High Dimensions via Random Embeddings</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(3).pdf" style="text-decoration:none;">From Conjunctive Queries to Instance Queries in Ontology-Mediated Querying</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(4).pdf" style="text-decoration:none;">R-SVM+: Robust Learning with Privileged Information</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(5).pdf" style="text-decoration:none;">Flexibility and Decoupling in the Simple Temporal Problem</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(6).pdf" style="text-decoration:none;">A Degeneracy Framework for Graph Similarity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(7).pdf" style="text-decoration:none;">SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(8).pdf" style="text-decoration:none;"> Commonsense Knowledge Aware Conversation Generation with Graph Attention </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(9).pdf" style="text-decoration:none;">Simple and Deterministic Matrix Sketching</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(10).pdf" style="text-decoration:none;">Fast Semidifferential-based Submodular Function Optimization</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(11).pdf" style="text-decoration:none;">HypTrails: A Bayesian Approach for
+Comparing Hypotheses About Human Trails on the Web</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(12).pdf" style="text-decoration:none;">Optimal and Adaptive Algorithms for Online Boosting</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(13).pdf" style="text-decoration:none;">Diamond Sampling for Approximate
+Maximum All-pairs Dot-product (MAD) Search</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(14).pdf" style="text-decoration:none;">Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(15).pdf" style="text-decoration:none;">Dueling Network Architectures for Deep Reinforcement Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(16).pdf" style="text-decoration:none;">Deep Residual Learning for Image Recognition</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(17).pdf" style="text-decoration:none;">Pixel Recurrent Neural Networks</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(18).pdf" style="text-decoration:none;">Social Networks Under Stress</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(19).pdf" style="text-decoration:none;">Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(20).pdf" style="text-decoration:none;">Global Neural CCG Parsing with Optimality Guarantees</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(21).pdf" style="text-decoration:none;">Densely Connected Convolutional Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(22).pdf" style="text-decoration:none;">Label-Free Supervision of Neural Networks with
+Physics and Domain Knowledge</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(23).pdf" style="text-decoration:none;">Recursive Decomposition for Nonconvex Optimization</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(24).pdf" style="text-decoration:none;">Learning from Simulated and Unsupervised Images through Adversarial Training</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(25).pdf" style="text-decoration:none;">Understanding Black-box Predictions via Influence Functions</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(26).pdf" style="text-decoration:none;">Mask R-CNN</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(27).pdf" style="text-decoration:none;">Probabilistic Typology: Deep Generative Models of Vowel Inventories</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(28).pdf" style="text-decoration:none;">A Linear-Time Kernel Goodness-of-Fit Test</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(29).pdf" style="text-decoration:none;">Accelerating Innovation Through Analogy Mining </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(30).pdf" style="text-decoration:none;">Causal Embeddings for Recommendation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(31).pdf" style="text-decoration:none;">Men Also Like Shopping:
+Reducing Gender Bias Amplification using Corpus-level Constraints</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(32).pdf" style="text-decoration:none;">Depression and Self-Harm Risk Assessment in Online Forums</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(33).pdf" style="text-decoration:none;">Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(34).pdf" style="text-decoration:none;">Delayed Impact of Fair Machine Learning</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(35).pdf" style="text-decoration:none;">Linguistically-Informed Self-Attention for Semantic Role Labeling</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(36).pdf" style="text-decoration:none;">Taskonomy: Disentangling Task Transfer Learning</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(37).pdf" style="text-decoration:none;">What Game Are We Playing?
+End-to-end Learning in Normal and Extensive Form Games</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(38).pdf" style="text-decoration:none;">Adversarial Attacks on Neural Networks for Graph Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(39).pdf" style="text-decoration:none;">Emoji-Powered Representation Learning for Cross-Lingual Sentiment Classification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(40).pdf" style="text-decoration:none;">Finding Syntax in Human Encephalography with Beam Search</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
 CB-DPOR</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Best-AI-Papers/blob/master/a(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
